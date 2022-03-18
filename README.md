@@ -1,6 +1,7 @@
+
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Wellcome%20To%20My%20Little%20World%20☕👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e479e6njs68zza85uxshd4ujnzvd96lmukkjav372wt&rid=giphy.gif&ct=g">
+
 
 <h1 align="center">Hi 👋, I'm Claudio Lucas</h1>
 <h3 align="center">A passionate student frontend developer from Brazil</h3>
@@ -10,6 +11,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=claudiovasconcelos" alt="claudiovasconcelos" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/claudiulukas" target="blank"><img src="https://img.shields.io/twitter/follow/claudiulukas?logo=twitter&style=for-the-badge" alt="claudiulukas" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/kbRb4eyCNC0aMz5x68/giphy.gif?cid=ecf05e479e6njs68zza85uxshd4ujnzvd96lmukkjav372wt&rid=giphy.gif&ct=g">
+
+
 
 - 🌱 I’m currently learning **HTML5/CSS/JavaScript**
 
