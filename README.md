@@ -16,7 +16,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML5/CSS/JavaScript**
+- 🌱 I’m currently learning **HTML5 / CSS / JavaScript / React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ClaudioVasconcelos?tab=repositories](https://github.com/ClaudioVasconcelos?tab=repositories)
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **claudiolucas19@hotmail.com**
 
-- 📄 Know about me [i am 27 years old, i live in brazil, i study daily frontend and i try to learn as much as i can. I like to travel and I have a dream of going to live outside Brazil sometime. I don't have children, single and I have enough English for a conversation, I try to improve my English day by day.](i am 27 years old, i live in brazil, i study daily frontend and i try to learn as much as i can. I like to travel and I have a dream of going to live outside Brazil sometime. I don't have children, single and I have enough English for a conversation, I try to improve my English day by day.)
+- 📄 Know about me i'am 27 years old, i live in brazil, i study daily frontend and i try to learn as much as i can. I like to travel and I have a dream of going to live outside Brazil sometime. I don't have children, single and I have enough English for a conversation, I try to improve my English day by day.](i am 27 years old, i live in brazil, i study daily frontend and i try to learn as much as i can. I like to travel and I have a dream of going to live outside Brazil sometime. I don't have children, single and I have enough English for a conversation, I try to improve my English day by day.)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
