@@ -25,7 +25,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ClaudioVasconcelos?tab=repositories](https://github.com/ClaudioVasconcelos?tab=repositories)
 
-- Todos os meus projetos você encontra aqui => https://github.com/ClaudioVasconcelos
+- Todos os meus projetos você encontra aqui => [https://github.com/ClaudioVasconcelos?tab=repositories]
 - 
 - 💬 Ask me about **anything**
 
