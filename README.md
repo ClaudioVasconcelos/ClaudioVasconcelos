@@ -34,8 +34,9 @@
 - 📫 How to reach me **claudiolucas19@hotmail.com**
 
 - ✉ Como entrar em contato comigo **claudiolucas19@hotmail.com**
-      
-- 📄(English). Know about me i'am 27 years old, i live in brazil, i study daily frontend and i try to learn as much as i can. I like to travel and I have a dream of going to live outside Brazil sometime. I don't have children, single and I have enough English for a conversation, I try to improve my English day by day.(i am 27 years old, i live in brazil, i study daily frontend and i try to learn as much as i can. I like to travel and I have a dream of going to live outside Brazil sometime. I don't have children, single and I have enough English for a conversation, I try to improve my English day by day.)
+    
+ (English)
+- 📄 Know about me i'am 27 years old, i live in brazil, i study daily frontend and i try to learn as much as i can. I like to travel and I have a dream of going to live outside Brazil sometime. I don't have children, single and I have enough English for a conversation, I try to improve my English day by day.(i am 27 years old, i live in brazil, i study daily frontend and i try to learn as much as i can. I like to travel and I have a dream of going to live outside Brazil sometime. I don't have children, single and I have enough English for a conversation, I try to improve my English day by day.)
 
 (Português)
 - 📄 Saiba mais sobre mim, tenho 27 anos, moro no brasil, estudo frontend diariamente e tento aprender o máximo que posso. Gosto de viajar e tenho o sonho de ir morar fora do Brasil algum dia. Não tenho filhos, solteiro e tenho inglês suficiente para uma conversa, tento melhorar meu inglês dia a dia.](tenho 27 anos, moro no brasil, estudo frontend diariamente e tento aprender como gosto de viajar e tenho o sonho de ir morar fora do Brasil algum dia. Não tenho filhos, solteiro e tenho inglês suficiente para uma conversa, procuro melhorar meu inglês dia a dia.)
